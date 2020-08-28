@@ -5,6 +5,7 @@
 Generates readme, badges given the pdfs and md files stored in .annotated/
 """
 import os
+from docopt import docopt
 from pybadges import badge
 from collections import Counter
 from pytablewriter import MarkdownTableWriter
@@ -98,7 +99,7 @@ def generate_topic_badges(topic_counts):
         svg_path = os.path.join(svg_path, svg_name)
         with open(svg_path, "w") as f:
             f.write(s)
-        html += "<img src='figures/badges/{}'/>".format(svg_name)
+        html += "<img src='figures/badges/{}'/> ".format(svg_name)
     return html
 
 
@@ -120,4 +121,5 @@ def main():
 
 
 if __name__ == "__main__":
+    arguments = docopt(__doc__)
     main()
