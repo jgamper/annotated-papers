@@ -1,7 +1,6 @@
 # Annotated papers :pencil:
 
-Tracks research papers, articles and their topics read since July 2020 :+1:, and some that were read prior to July 2020:seedling:
-
+Tracks research papers, articles and their topics read since July 2020 :+1:, and some that were read prior to July 2020
 <p align='center'>
     <br>
     <img src='figures/title_collage.jpg' width='800'/>
