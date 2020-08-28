@@ -1,6 +1,6 @@
 <p align="center">
     <br>
-    <img src="figures/title_collage.jpg" width="600"/>
+    <img src="figures/title_collage.jpg" width="800"/>
     <br>
 <p>
 
