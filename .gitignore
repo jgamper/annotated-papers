@@ -21,3 +21,6 @@ __pycache__/
 *.DS_Store
 .pytest_cache/
 *.pyc
+
+# Ignore pdfs directory
+pdfs/
