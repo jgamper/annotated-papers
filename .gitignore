@@ -8,8 +8,6 @@ __pycache__/
 *.swp
 
 # Outputs
-*.png
-*.svg
 *.eps
 *.out
 
