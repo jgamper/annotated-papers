@@ -1,6 +1,6 @@
 # Annotated papers :pencil:
 
-Tracks research papers, articles and their topics read since July 2020 :+1:, and some that were read prior to July 2020 :seedling:
+Tracks research papers, articles and their topics read since July 2020 :+1:, and some that were read prior to July 2020:seedling:
 
 <p align='center'>
     <br>
@@ -11,7 +11,7 @@ Tracks research papers, articles and their topics read since July 2020 :+1:, and
 
 ## Topics 
 
-Every badge is a topic with the count of articles associated with that topic. Colour represents if the number of read articles with that topic is below (red) or above (blue) average count 
+Every badge is a topic with the count of articles associated with that topic. Colour represents if the number of read articles with that topic is below (red) or above (blue) average count. 
 
 <img src='figures/badges/deep_learning_properties.svg'/> <img src='figures/badges/deep_learning.svg'/> <img src='figures/badges/generative_adversarial_networks.svg'/> <img src='figures/badges/sparse_neural_networks.svg'/> <img src='figures/badges/lottery_ticket_hypothesis.svg'/> <img src='figures/badges/weather_systems.svg'/> <img src='figures/badges/dynamical_systems.svg'/> <img src='figures/badges/computational_pathology.svg'/> <img src='figures/badges/remote_sensing.svg'/> <img src='figures/badges/self-supervised_learning.svg'/> <img src='figures/badges/ablation_study.svg'/> <img src='figures/badges/computer_vision.svg'/> <img src='figures/badges/natural_language_processing.svg'/> <img src='figures/badges/sociology.svg'/> <img src='figures/badges/research_engineering_processes.svg'/> <img src='figures/badges/medical_review.svg'/> <img src='figures/badges/probabilistic_deep_learning.svg'/> <img src='figures/badges/uncertainty_quantification.svg'/> <img src='figures/badges/machine_learning.svg'/> <img src='figures/badges/time_series.svg'/> <img src='figures/badges/transfer_learning.svg'/> <img src='figures/badges/statistical_analysis.svg'/> <img src='figures/badges/deep_learning_ablation_study.svg'/> <img src='figures/badges/hydrology.svg'/> <img src='figures/badges/statistical_machine_learning.svg'/> <img src='figures/badges/weather_forecasting.svg'/> <img src='figures/badges/kernel_methods.svg'/> <img src='figures/badges/stochastic_modeling.svg'/> <img src='figures/badges/adversarial_learning.svg'/> <img src='figures/badges/AI_ethics.svg'/> <img src='figures/badges/reinforcement_learning.svg'/> <img src='figures/badges/causal_inference.svg'/> <img src='figures/badges/antropology.svg'/> <img src='figures/badges/management.svg'/> <img src='figures/badges/climate_modeling.svg'/> 
 

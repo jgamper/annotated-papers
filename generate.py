@@ -12,10 +12,10 @@ from pytablewriter import MarkdownTableWriter
 
 INTRO = (
     "# Annotated papers :pencil:\n\nTracks research papers, articles and their topics read since July 2020 :+1:, and some "
-    "that were read prior to July 2020 :seedling:\n\n"
+    "that were read prior to July 2020:seedling:\n\n"
     "<p align='center'>\n    <br>\n    <img src='figures/title_collage.jpg' width='800'/>\n    <br>\n<p>\n\n\n"
     "## Topics \n\nEvery badge is a topic with the count of articles associated with that topic. Colour represents "
-    "if the number of read articles with that topic is below (red) or above (blue) average count \n\n"
+    "if the number of read articles with that topic is below (red) or above (blue) average count. \n\n"
 )
 
 
