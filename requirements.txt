@@ -22,7 +22,7 @@ pickleshare==0.7.5
 prompt-toolkit==3.0.6
 ptyprocess==0.6.0
 pybadges==2.2.1
-Pygments==2.6.1
+Pygments==2.7.4
 pytablewriter==0.57.0
 python-dateutil==2.8.1
 pytz==2020.1
