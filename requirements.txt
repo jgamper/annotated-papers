@@ -6,7 +6,7 @@ decorator==4.4.2
 docopt==0.6.2
 idna==2.10
 ipykernel==5.3.4
-ipython==7.16.1
+ipython==7.16.3
 ipython-genutils==0.2.0
 jedi==0.17.2
 Jinja2==2.11.2
